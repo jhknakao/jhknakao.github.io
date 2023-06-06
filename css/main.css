@@ -1,8 +1,10 @@
+<style>
 body {
     margin: 60px auto;
     width: 70%;
     background-image: url('raindrops.jpg');
 }
+</style>
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
