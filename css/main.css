@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: rgba(233, 255, 114, 0.29);
+    background-color: rbga(255,255,255,1); <!rgba(233, 255, 114, 0.29);>
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
